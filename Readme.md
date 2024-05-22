@@ -8,7 +8,7 @@
 |3.  | [Vignesh C](https://github.com/Vignesh-501) | 220701317 |
 |4. | [Vipin S](https://github.com/220701323) | 220701323 |
 |5.  | [Yokeshwar S](https://github.com/YokeshwarS) | 220701329 |
-|6. | Sasi Kumar | 220701525 |
+|6. | [Sasi Kumar](https://github.com/sasikumar525) | 220701525 |
 
 ---
 
