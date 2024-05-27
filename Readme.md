@@ -19,3 +19,10 @@
 
 ### Project Scope
 The Work Planner is designed to support users in managing tasks and projects efficiently. It will cater to individual users and teams across various industries, offering functionalities like task creation, task management, milestone tracking, and report analysis. The application will be accessible on both desktop and mobile platforms, ensuring that users can manage their projects anytime and anywhere.
+
+---
+
+### Class Diagram
+![class diagram drawio (1)](https://github.com/Vignesh-501/220701317-CS19442-SE-Lab/assets/167336838/3b531293-df34-41a9-9a71-4e24f3175ba4)
+
+
